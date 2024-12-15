@@ -6,6 +6,8 @@ Snake Game by Assembly Language for 8086 microprocessor
 Supervised by: Dr Sara Elmetwally
 
 Team Contributors:
-Omar Mohamed Kamal
+Omar Kamal
+
 Abdulrahman Shalan
+
 Noura Elsaey
