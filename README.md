@@ -3,7 +3,7 @@ Snake Game by Assembly Language for 8086 microprocessor
 
 3rd Year - CS dep. - Assembly course
 
-Supervised by: Dr Sara Elmetwally
+Supervised by: Dr Sara Elmetwally & Eng. Amany Sherif
 
 
 Team Contributors: Omar Kamal / Abdulrahman Shalan / Noura Elsaey
